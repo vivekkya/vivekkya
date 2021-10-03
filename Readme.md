@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ![Banner](docs/banner.png)
 
 <p align="center">
