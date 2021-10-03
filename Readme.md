@@ -20,7 +20,7 @@ I am a data scientist , with focus on computer vision. Currently I am working wi
 ### Skills
 ---
 
-
+**Model Building framework/tools**
 <p align="left">
 
 <a>
@@ -35,6 +35,11 @@ I am a data scientist , with focus on computer vision. Currently I am working wi
 <a href="LinkedIn profile URL">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 </a>
+</p>
+
+<p align="left">
+
+**Model Deployment tools**
 
 <a href="LinkedIn profile URL">
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
