@@ -7,12 +7,12 @@
 
 
 
-### Hi this is Vivek Yadav!
+## Hi :wave: this is Vivek Yadav!
 I am a data scientist , with focus on computer vision. Currently I am working with QubitAI, a startup 
 
 
-### Experience
----
+## Experience
+
 
 **QubitAI Technologies**
 - Led Data Science team to build both open-source &
@@ -31,8 +31,8 @@ building detection in aerial images
 
 <br />
 
-### Recent Projects
----
+## Recent Projects
+
 **Image segmentation based building detection**
 - Worked on Image Segmentation based model for building detection in aerial RGB Images
 
@@ -53,8 +53,7 @@ assosciation
 
 <br />
 
-### Skills
----
+## Skills
 
 **Model Building framework/tools**
 <p align="left">
