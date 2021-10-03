@@ -1,15 +1,15 @@
-![Banner](docs/banner.png)
+<!-- ![Banner](docs/banner.png) -->
 
-<p align="center">
+## Hi :wave: this is Vivek Yadav!
+
+I am a Data Scientist with proven trackrecord and experience in buidling & deploying Deep Learning
+solutions in production environments. 
+
+<p align="left">
 <a href="LinkedIn profile URL">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
-
-
-## Hi :wave: this is Vivek Yadav!
-I am a Data Scientist with proven trackrecord and experience in buidling & deploying Deep Learning
-solutions in production environments. 
 
 <br />
 
