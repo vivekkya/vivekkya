@@ -101,5 +101,11 @@ assosciation
 <a href="LinkedIn profile URL">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
-
 </p>
+
+<!-- **ToDo**
+
+- [] Basic template
+- [] Open Source visual image recommender
+- [] Open Source face detection code
+- [] Add section in profile readme on paper implementation -->
