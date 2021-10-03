@@ -8,7 +8,8 @@
 
 
 ## Hi :wave: this is Vivek Yadav!
-I am a data scientist , with focus on computer vision. Currently I am working with QubitAI, a startup 
+I am a data scientist with experience in buidling & deploying Deep Learning
+solutions in production environments. 
 
 <br />
 
