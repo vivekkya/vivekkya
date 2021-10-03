@@ -10,12 +10,28 @@
 ### Hi this is Vivek Yadav!
 I am a data scientist , with focus on computer vision. Currently I am working with QubitAI, a startup 
 
+
+### Experience
+**QubitAI Technologies**
+
+**Capgemini**
+
 ### Recent Projects
 ---
-- **Image segmentation based building detection**
-- **Video Analytics**
+**Image segmentation based building detection**
+- Worked on Image Segmentation based model for building detection in aerial RGB Images
 
+- Trained U-Net, MaskRCNN models with multiple loss fuctions such as Dice, Binary Cross Entropy & Focal teversky loss
 
+    *<u>Built using:</u> MaskRCNN, U-Net, Tensorflow, Docker*
+
+**Information Extraction from Engineering Drawing Sheet**
+- Developed solution to digitize titleblock information from product drawing sheets using Python, OpenCV, OCR, and Custom post OCR correction system
+
+- This solution saved 2000+ hrs of labour in creating missing
+assosciation
+
+    *<u>Built using:</u> OpenCV, Autobahn OCR engine, MongoDB*
 
 ### Skills
 ---
