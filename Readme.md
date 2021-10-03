@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ![Banner](docs/banner.png)
 
 <p align="center">
@@ -7,10 +13,8 @@
 
 
 
-
-
-# Introduction
-Hi this is Vivek, I am a data scientist , with focus on computer vision. Currently I am working with QubitAI, a startup 
+### Hi this is Vivek Yadav!
+I am a data scientist , with focus on computer vision. Currently I am working with QubitAI, a startup 
 
 # Recent Projects
 - **Image segmentation based building detection**
@@ -19,6 +23,7 @@ Hi this is Vivek, I am a data scientist , with focus on computer vision. Current
 
 
 **Skills**
+---
 
 |Framework  | Model Deployment tools | 
 --          |--
