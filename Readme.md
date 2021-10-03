@@ -6,7 +6,7 @@ I am a Data Scientist with proven trackrecord and experience in buidling & deplo
 solutions in production environments. 
 
 <p align="left">
-<a href="LinkedIn profile URL">
+<a href="https://www.linkedin.com/in/vivekkya">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 
