@@ -12,9 +12,24 @@ I am a data scientist , with focus on computer vision. Currently I am working wi
 
 
 ### Experience
+---
+
 **QubitAI Technologies**
+- Led Data Science team to build both open-source &
+enterprise edition of Deep Learning Toolkit
+- Worked closely with cloud team to build scalable ML/DL models training & inference lifecycle pipeline.
+- Developed Image Segmentation based model for
+building detection in aerial images
+- Involved in code integration and code reviews along with client demos
+
+<br />
 
 **Capgemini**
+
+- Developed & deployed computer vision solutions related to Face Analytics, Image Classification for multiple clients 
+- Worked on multiple PoCs related to NLP & Computer Vision as part of AI-CoE
+
+<br />
 
 ### Recent Projects
 ---
@@ -25,6 +40,8 @@ I am a data scientist , with focus on computer vision. Currently I am working wi
 
     *<u>Built using:</u> MaskRCNN, U-Net, Tensorflow, Docker*
 
+<br />
+
 **Information Extraction from Engineering Drawing Sheet**
 - Developed solution to digitize titleblock information from product drawing sheets using Python, OpenCV, OCR, and Custom post OCR correction system
 
@@ -32,6 +49,9 @@ I am a data scientist , with focus on computer vision. Currently I am working wi
 assosciation
 
     *<u>Built using:</u> OpenCV, Autobahn OCR engine, MongoDB*
+
+
+<br />
 
 ### Skills
 ---
