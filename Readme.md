@@ -16,27 +16,18 @@ td, th {
 ### Hi this is Vivek Yadav!
 I am a data scientist , with focus on computer vision. Currently I am working with QubitAI, a startup 
 
-# Recent Projects
+### Recent Projects
+---
 - **Image segmentation based building detection**
 - **Video Analytics**
 
 
 
-**Skills**
+### Skills
 ---
 
-|Framework  | Model Deployment tools | 
---          |--
-|Tensorflow | Docker
-|Keras      | Kuberneters
-|OpenCV     | Git
-|SkImage    |Django
-|           |FastAPI
-|           |Flask
-|           |Streamlit
 
-
-<!-- <p align="left">
+<p align="left">
 
 <a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -75,4 +66,4 @@ I am a data scientist , with focus on computer vision. Currently I am working wi
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
-</p> -->
+</p>
