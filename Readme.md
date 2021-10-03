@@ -8,7 +8,7 @@
 
 
 ## Hi :wave: this is Vivek Yadav!
-I am a Data Scientist with experience in buidling & deploying Deep Learning
+I am a Data Scientist with proven trackrecord & experience in buidling & deploying Deep Learning
 solutions in production environments. 
 
 <br />
